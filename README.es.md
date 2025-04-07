@@ -16,7 +16,7 @@ Al mismo tiempo, comenzarás a construir tu perfil de estudiante, uno de los log
 
 - Será la primera versión de tu portafolio de desarrollador.
 
-- Será la primera versión de tu currículum (como un desarrollador).
+- Será la primera versión de tu currículum (como un desarrollador)
 
 - Le dará más contexto a tu experiencia de aprendizaje: puedes ver una tabla de todo lo que aprenderás a lo largo del curso.
 
